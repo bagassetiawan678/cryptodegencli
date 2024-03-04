@@ -1,0 +1,20 @@
+{
+  "name": "cryptodegencli",
+  "version": "0.1.1",
+  "description": "A CLI tool for interacting with the CryptoDegenBot.",
+  "main": "cli.js",
+  "bin": {
+    "cryptodegencli": "./cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bagassetiawan678/cryptodegencli.git"
+  },
+  "dependencies": {
+    "cryptodegenbot": "^0.1.0",
+    "cryptodegencli": "^0.1.0",
+    "yargs": "^17.0.1"
+  },
+  "author": "bagassetiawan678",
+  "license": "MIT"
+}
